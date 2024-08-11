@@ -1,3 +1,8 @@
+New User
+composer global require laravel/installer
+
+then
+
 Step-1 Open Terminal
 win+R
 
