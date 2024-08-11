@@ -1,1 +1,4 @@
-Tutotial
+Create a New Project?
+```
+composer create-project --prefer-dist laravel/laravel laravel
+```
